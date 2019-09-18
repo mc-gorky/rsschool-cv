@@ -1,1 +1,0 @@
-https://mc-gorky.github.io/rsschool-cv/cv 
