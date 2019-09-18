@@ -21,8 +21,9 @@ Working in the field of GIS for 10 years
 ## 4. Code example
 
 ```
-let a = "Me are programmer! Me make code!"
-alert (a)
+const a = "Me are programmer! Me make code!";
+
+alert(a);
 
 ```
 
